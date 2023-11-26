@@ -8,5 +8,5 @@ To get the frontend running locally:
 
 ## nguyenvanhoi-front-end-project Vercel
 
--shoes-websit: https://shoes-websit.vercel.app/
--project-hoobank: https://project-hoobank-rho.vercel.app/
+- Shoes-websit: https://shoes-websit.vercel.app/
+- Project-hoobank: https://project-hoobank-rho.vercel.app/
