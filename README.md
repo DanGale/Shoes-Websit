@@ -12,3 +12,4 @@ To get the frontend running locally:
 - Project-hoobank: https://project-hoobank-rho.vercel.app/
 - Heling: https://heling-gold.vercel.app/
 - Jalan: https://jalan-one.vercel.app/
+- Adminhub: https://adminhub-five.vercel.app/
