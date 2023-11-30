@@ -15,8 +15,8 @@ To run the frontend projects locally, follow these steps:
    `npm install`
    
 4. Run the Local Server:
-   - For projects using Vite: npm run dev
-   - For projects using Create React App: npm run start
+   - For projects using Vite: `npm run dev`
+   - For projects using Create React App: `npm start`
 
 
 ## Explore my front-end projects deployed on Vercel:
