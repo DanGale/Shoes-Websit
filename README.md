@@ -11,8 +11,9 @@ To run the frontend projects locally, follow these steps:
    git clone https://github.com/DanGale/nguyenvanhoi-front-end-project.git
    cd your-repo
    
-2. Install Dependencies:
-   `npm install`
+2. **Install Dependencies:**
+   ```bash
+   npm install
    
 4. Run the Local Server:
    - For projects using Vite: `npm run dev`
