@@ -29,3 +29,4 @@ To run the frontend projects locally, follow these steps:
 - Heling: https://heling-gold.vercel.app/
 - Jalan: https://jalan-one.vercel.app/
 - Adminhub: https://adminhub-five.vercel.app/
+- Ecommerce-shop-react-app: https://ecommerce-shop-react-app-iota.vercel.app/
