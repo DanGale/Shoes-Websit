@@ -1,13 +1,25 @@
-## Getting started
+# Nguyen Van Hoi's Front-End Projects
 
-To get the frontend running locally:
+Welcome to my repository containing various front-end projects developed using HTML, CSS, React (with Vite), and Create React App.
 
-- Clone this repo
-- `npm install` to install all req'd dependencies
-- `npm run dev` to start the local server (this project Vite)
+## Getting Started
 
-## nguyenvanhoi-front-end-project Vercel
+To run the frontend projects locally, follow these steps:
 
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/DanGale/nguyenvanhoi-front-end-project.git
+   cd your-repo
+   
+2. Install Dependencies:
+   npm install
+   
+4. Run the Local Server:
+  .For projects using Vite: npm run dev
+  .For projects using Create React App: npm run start
+
+
+## Explore my front-end projects deployed on Vercel:
 - Shoes-websit: https://shoes-websit.vercel.app/
 - Project-hoobank: https://project-hoobank-rho.vercel.app/
 - Heling: https://heling-gold.vercel.app/
