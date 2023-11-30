@@ -12,11 +12,11 @@ To run the frontend projects locally, follow these steps:
    cd your-repo
    
 2. Install Dependencies:
-   npm install
+   `npm install`
    
 4. Run the Local Server:
-  .For projects using Vite: npm run dev
-  .For projects using Create React App: npm run start
+   - For projects using Vite: npm run dev
+   - For projects using Create React App: npm run start
 
 
 ## Explore my front-end projects deployed on Vercel:
