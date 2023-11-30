@@ -1,6 +1,3 @@
-# Nguyen Van Hoi's Front-End Projects
-
-Welcome to my repository containing various front-end projects developed using HTML, CSS, React (with Vite), and Create React App.
 
 ## Getting Started
 
